@@ -1,0 +1,6 @@
+install.packages("rgdal")
+install.packages("mapproj")
+install.packages("maptools")
+install.packages("gpclib")
+install.packages("rgeos")
+install.packages("ggplot2")
